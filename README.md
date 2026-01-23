@@ -1,4 +1,4 @@
 # SRCR
 
-**SRCR: Faithful Structured Reasoning with Curriculum Reinforcement Learning for Explainable Question Answering**
+**SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering**
 
